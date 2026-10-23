@@ -1,1 +1,2 @@
 print("gagan")
+print("naik")
